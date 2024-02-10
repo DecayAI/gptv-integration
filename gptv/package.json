@@ -1,0 +1,20 @@
+{
+  "name": "gptv",
+  "scripts": {
+    "type:check": "tsc --noEmit"
+  },
+  "keywords": [],
+  "private": true,
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@botpress/client": "0.11.0",
+    "@botpress/sdk": "0.5.10",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5"
+  }
+}
